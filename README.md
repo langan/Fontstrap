@@ -22,6 +22,6 @@ or 'Credits' screen is considered acceptable (most common in desktop or mobile s
 - Work: http://lemonwi.se co-founder
 
 ##Credits
-Special thanks to @Keyamoon for icon designs from the IcoMoon app, which provided the social icons.
+Special thanks to [@Keyamoon](http://twitter.com/keyamoon/) for icon designs from the IcoMoon app, which provided the social icons.
 
 And obviously a big thank you to the original author of this amazing font library, Dave Gandy.
