@@ -1,13 +1,12 @@
-#Font Awesome
+#Font Awesome More
 ##the iconic font designed for use with Twitter Bootstrap
 
 The full suite of pictographic icons, examples, and documentation can be found at:
-http://fortawesome.github.com/Font-Awesome/
+http://gregoryloucas.github.com/Font-Awesome-More/
 
 ##Contact
-- Email: dave@davegandy.com
-- Twitter: http://twitter.com/fortaweso_me
-- Work: http://lemonwi.se co-founder
+- Email: me@gregoryloucas.com
+- Twitter: http://twitter.com/gregoryLpaul
 
 ##License
 The Font Awesome webfont, CSS, and LESS files are licensed under CC BY 3.0:
@@ -16,3 +15,13 @@ A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
 in human-readable source code is considered acceptable attribution (most common on the
 web). If human readable source code is not available to the end user, a mention in an 'About' 
 or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
+
+##Original Author
+- Email: dave@davegandy.com
+- Twitter: http://twitter.com/fortaweso_me
+- Work: http://lemonwi.se co-founder
+
+##Credits
+Special thanks to @Keyamoon for icon designs from the IcoMoon app, which provided the social icons.
+
+And obviously a big thank you to the original author of this amazing font library, Dave Gandy.
