@@ -7,7 +7,7 @@
 
 // These accomodate navbar-fixed-top
 #overview { padding-top: 60px; }
-#new-icons, #all-icons, #examples, #integration, #code, #roadmap {
+#new-icons, #all-icons, #gLp-icons, #examples, #integration, #code, #roadmap {
   padding-top: 40px;
 }
 .navbar .brand {
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 { font-family: @serifFontFamily; }
   margin-bottom: 20px;
   .border-radius(20px);
 //  #gradient > .radial( lighten(@red, 10%), @red);
-  background-color: @red;
+  background-color: @purple;
   &, h1 { color: @white; }
   h1 {
     font-size: 70px;
@@ -114,6 +114,10 @@ h1, h2, h3, h4, h5, h6 { font-family: @serifFontFamily; }
   .hero-content {
     width: 500px;
     text-align: center;
+    & .btn-primary {
+        	// Only for Featured section
+        	.buttonBackground(#fffeb8, @green);
+    		}
   }
 }
 
