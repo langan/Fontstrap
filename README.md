@@ -7,7 +7,7 @@ http://gregoryloucas.github.com/Font-Awesome-More/
 ##Contact
 - Email: me@gregoryloucas.com
 - Twitter: http://twitter.com/gregoryLpaul
-- - Work: Product Designer @ http://pega.com
+- Work: Product Designer @ http://pega.com
 
 ##License
 Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
