@@ -1,4 +1,4 @@
-#Font Awesome More 2.0
+#Font Awesome More 2.1
 ##the iconic font designed for use with Twitter Bootstrap
 
 The full suite of pictographic icons, examples, and documentation can be found at:
@@ -7,6 +7,7 @@ http://gregoryloucas.github.com/Font-Awesome-More/
 ##Contact
 - Email: me@gregoryloucas.com
 - Twitter: http://twitter.com/gregoryLpaul
+- - Work: Product Designer @ http://pega.com
 
 ##License
 Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
