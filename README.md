@@ -1,28 +1,22 @@
-#Font Awesome More 2.1
+#Font Awesome 3.0.2
 ##the iconic font designed for use with Twitter Bootstrap
 
 The full suite of pictographic icons, examples, and documentation can be found at:
-http://gregoryloucas.github.com/Font-Awesome-More/
+http://fortawesome.github.com/Font-Awesome/
 
-##Contact
-- Email: me@gregoryloucas.com
-- Twitter: http://twitter.com/gregoryLpaul
-- Work: Product Designer @ http://pega.com
 
 ##License
-Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
-http://creativecommons.org/licenses/by/3.0/
-A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
-in human-readable source code is considered acceptable attribution (most common on the
-web). If human readable source code is not available to the end user, a mention in an 'About' 
-or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
+- The Font Awesome font is licensed under the SIL Open Font License - http://scripts.sil.org/OFL
+- Font Awesome CSS, LESS, and SASS files are licensed under the MIT License - http://opensource.org/licenses/mit-license.html
+- The Font Awesome pictograms are licensed under the CC BY 3.0 License - http://creativecommons.org/licenses/by/3.0/
+- Attribution is no longer required in Font Awesome 3.0, but much appreciated: "Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome"
 
-##Original Author
+##Contact
 - Email: dave@davegandy.com
 - Twitter: http://twitter.com/fortaweso_me
 - Work: Lead Product Designer @ http://kyru.us
 
-##Credits
-Special thanks to [@Keyamoon](http://twitter.com/keyamoon/) for icon designs from the IcoMoon app, which provided the social icons.
-
-And obviously a big thank you to the original author of this amazing font library, Dave Gandy.
+##Changelog
+- v3.0.0 - all icons redesigned from scratch, optimized for Bootstrap's 14px default
+- v3.0.1 - much improved rendering in webkit, various bugfixes
+- v3.0.2 - much improved rendering and alignment in IE7
