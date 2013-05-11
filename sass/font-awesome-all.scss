@@ -21,7 +21,7 @@
  *  Work: Lead Product Designer @ http://kyruus.com
  */
 
-$fontAwesomePath:   "../font" !default;
+$fontAwesomePath:   "./fonts" !default;
 $borderColor:       #eee;
 $iconMuted:         #eee;
 @mixin border-radius($radius) { -webkit-border-radius: $radius; -moz-border-radius: $radius; border-radius: $radius; }
@@ -538,7 +538,7 @@ ul.icons {
  *
  */
 
-$FontAwesomePath:   "../fonts/corp";
+$FontAwesomePath:   "./fonts/corp";
 
 @font-face {
   font-family: 'Font-Awesome-Corp';
@@ -602,7 +602,7 @@ $FontAwesomePath:   "../fonts/corp";
  *
  */
 
-$FontAwesomePath:   "../fonts/ext";
+$FontAwesomePath:   "./fonts/ext";
 
 @font-face {
   font-family: 'Font-Awesome-Ext';
@@ -672,7 +672,7 @@ $FontAwesomePath:   "../fonts/ext";
  *
  */
 
-$FontAwesomePath:   "../fonts/social";
+$FontAwesomePath:   "./fonts/social";
 
 @font-face {
   font-family: 'Font-Awesome-Social';
